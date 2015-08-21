@@ -1,1 +1,1 @@
-This is the first commit, this is a textfile
+This is the first commit, this is a textfile. Ham rhymes with Sam which rhymes with Damn and lamb.
